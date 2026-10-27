@@ -1,0 +1,8 @@
+fastapi[all]
+sqlalchemy>=2.0.0
+alembic
+pydantic[email]
+psycopg2-binary
+argon2-cffi
+python-multipart
+python-dotenv
